@@ -1,8 +1,8 @@
-# Pipox_Attack
+# Pipox Attack
 
-Fun top-down shooter!
+Fun top-down shooter game!
 
-This game was the first code I ever wrote, and it's written in C# using Unity.
+Pipox Attack was the first code I ever wrote, and it's written in C# using Unity.
 
 The files in folder "Pipox Attack - Built" contain the playable build of the game, whereas the rest of the files compose the project itself.
 
